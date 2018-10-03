@@ -1,2 +1,26 @@
-# Code-Samples
-Collection of code samples I've written to demonstrate various functionality.
+# Code Samples
+
+## JavaScript - Flot Charts
+[Multi-series real-time chart](https://jsfiddle.net/vkvmpL6o/2)  
+[Extrapolating a slope](http://jsfiddle.net/ajozk1gq/)  
+[Crosshair modes and snap](http://jsfiddle.net/xeyo04uz/)  
+[Multi-series tooltip and point highlighting](http://jsfiddle.net/0yrhtsw5/)  
+[Pie charts, demonstrating effect of relatively small values](http://jsfiddle.net/Lj2d57gs/)  
+[Interactive drill-down bar charts with delegated event handler](https://jsfiddle.net/a6t75x1s/)  
+[Plotting GPX data](http://jsfiddle.net/2wvxa6yy/)  
+[Combined chart types and individual series interactivity](http://jsfiddle.net/ntf68c8k/)  
+[Dynamically changing chart type](http://jsfiddle.net/m554pbyb/)  
+[Changing series color using threshold plugin](http://jsfiddle.net/xxpe7r9p/)  
+[Zooming in to view finer data](http://jsfiddle.net/my93t64b/)  
+[Locale aware labels](http://jsfiddle.net/G4tAK/16/)  
+[Highlighting points by value](http://jsfiddle.net/v1xL3gqd/)  
+[Zooming with multiple axes](http://jsfiddle.net/PB7AF/)  
+[Selecting multiple points from multiple series](http://jsfiddle.net/mB2hb/3/)  
+[Clicking to add points](http://jsfiddle.net/Mf8Zb/)  
+[Using a point's 3rd dimension to store arbitrary data for tooltip](http://jsfiddle.net/vLG4Z/)  
+[Using markings and annotations to highlight XY axes](http://jsfiddle.net/H7kvv/)  
+[Invert Y-axis with transforms](http://jsfiddle.net/hzqxr/)  
+[Using transforms to skewing a series along the X axis to align/compare with another series](http://jsfiddle.net/7HWra/)  
+[Plotting algebraic functions with user input](http://jsfiddle.net/U2qH8/)  
+[Demonstrate pie chart label formatting and style precendence](http://jsfiddle.net/G4tAK/)  
+[Creating line breaks in data that can wrap. Eg. Compass bearings](http://jsfiddle.net/kReUS/)
