@@ -1,6 +1,6 @@
 # Code Samples
 
-## JavaScript - Flot Charts
+## JavaScript - [Flot Charts](http://www.flotcharts.org/)
 [Multi-series real-time chart](https://jsfiddle.net/vkvmpL6o/2)  
 [Extrapolating a slope](http://jsfiddle.net/ajozk1gq/)  
 [Crosshair modes and snap](http://jsfiddle.net/xeyo04uz/)  
@@ -24,3 +24,7 @@
 [Plotting algebraic functions with user input](http://jsfiddle.net/U2qH8/)  
 [Demonstrate pie chart label formatting and style precendence](http://jsfiddle.net/G4tAK/)  
 [Creating line breaks in data that can wrap. Eg. Compass bearings](http://jsfiddle.net/kReUS/)
+
+## JavaScript - [CesiumJS](https://cesiumjs.org/)
+[Time-dynamic entity updates using SampledPositionProperty, CallbackProperty](https://cesiumjs.org/Cesium/Build/Apps/Sandcastle/#c=nVXRbts4EPwVwi9RAEWWc0iROm5wgVMcekhQown60LoPDLWyeKFIgaTsugf/+y1JSZaUBgFOtgWZ3B3ODoerLdVky2EHmnwgEnZkCYbXZfLVj0UnzP9dKmkpl6BPYvLvWhK8TKFqkd1IXlILc2J1DWt5OL1ay7UMgAmjJWiaGLAOLWoSMzCWS2q5kvN2tSXVFp+o/CPJtSpvYaMBTHQRp/F56q/TOGQrzQG5hOwG0V0F0IzLzZyk8XGw4pYV3SL31BaJVV8wkEoTnb3vQN2llRCYHQYOx1JQH2OR3i2WiRI1WH/XAkHcmCf8yajLd+ksOjlPZ5dn6fuz2bvHNJ37b4Lsv504NIcFMvtfSBcDpKPEQrHnhNVaoyqPvHTAHd2rUZifeCsICTYhDdVxgL9/oXLTK2LZjSXLu5v71cfbcVZZC8srwb3PzjtpK2W420szdN8DLSsB2aqZXWlVgbb7yNXepThjfZIWdKWEN8Tnyo8Ho/H+TGOoObmIX8zdiA2ayhZlZ5Q7utGulpUSe6lKTsVNVWn101kdExpvHHnQLAuEo07V+A1np+jsy2Ds17Aa+d9CmqUxcb8AFFTdaFVLp95Q1dcR8BOy81oyR4Qgjzs88NFpe8gcLtPgFWgM8tLBuNeY85o3wxItGNY8Q5COa5Psgnoh5xhyVGeDrYSKGqI+kzYj3KdT8lhwQ6rGM2THhSCs8IZ9ogYyguXZAgjFAZX7RyTI7b4DEFi5CYkZN7SqAMnMUmKAKZkZQnP0j09UT/8As6SixoA5EsfmuGtNO94DIZ4oe+4s3SoeWVdKv6U5ILr5vdANk1ue54DyMvDpMfmdLu7iOYkc1jWWMVjEtz6wtZYkp8JAL+fQa44hwjX5JuAQh/jhnmo6KvejFzbqLYjHbu/0nffDVs3gX5pWBWcmGjHsHDAn351vYm+NH/Ewyqk+H2g/Csixx6vdQ61zypCAL2AUsuOZxVfGLElHE+41p7EVDHgvlVA6wsYc+wyShtvlaU/F5vnQGTucDm85Dv7ER6ibmz60B9htpmuUbYfbUhE1J9KdduwaV5N4sjB2L+A6wP7Jy0ppS2otoiSZWsAmgpTN9Klmz2ATZoxbYjFtkxYZ3xKefVhPRu/49YQwgYbGmbwW4oH/gvXkejHF+EGaUP6V+3kLWtC9Cylm13dhMEmSxRT/vsyySuEB0D3E/wA)  
+[Changing object display using distanceDisplayCondition](https://cesiumjs.org/Cesium/Build/Apps/Sandcastle/#c=rVJNT8JAEP0rm14oSd1SCCGplWjEGwkkJhpjPSztgBO3u83uUkDjf3doQUD05iRtOh/vzbzpVMKwCmEFhl0xBSt2CxaXBX+oY34rq91brZxABabVvkxVqipCgXLoNqeouzrmf6SKkSlRQMxa90KxEcJCt4ImXmqLDrWKj6HUwjqh3HSXnBpdgiGyBlPzHVUL4+hLqB6fG12MYGEArH8RRQMe9QPW6/JBwDrtBtz+bozKxezjQJlpqU18mIE8/nQ3Hk8eg0NRiWuQ9/hOYoj7EM9xO3EGI7SlFBtSkJ/rGv1R5Pc7ZDRpp7HdqJ87filmIE9GdbB2v23ze8LJfG7BxWcr6tYrujFGbPznQYdT0y69X9r/LSXqn0pJ1efuXOpj4vXFIFgu8txvzqfJh+H+8QIvsW4jYdhwXGNRauPY0kif89BBQZ1JVjhbZm/geGbtliIJ96Akx4phfpV6Py439VgmhbWUmS9l/TtTb5iEVH8Ck1rkqBaTCgxp3Ja8RsNxE+ScJyG55yintZwJc8T4BQ)  
