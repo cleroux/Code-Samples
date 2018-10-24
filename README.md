@@ -1,5 +1,8 @@
 # Code Samples
 
+## JavaScript
+[Immutable array using Proxy](http://jsfiddle.net/gurw2coL/)
+
 ## JavaScript - [Flot Charts](http://www.flotcharts.org/)
 [Multi-series real-time chart](https://jsfiddle.net/vkvmpL6o/2)  
 [Extrapolating a slope](http://jsfiddle.net/ajozk1gq/)  
