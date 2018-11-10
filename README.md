@@ -1,7 +1,15 @@
 # Code Samples
 
+## Java
+[Passwd as a Service](https://github.com/cleroux/passwdservice) - Demo Jersey Web Service  
+
+## C# / .NET
+
+[Desktop Google Calendar](https://github.com/cleroux/DesktopGoogleCalendar)
+
 ## JavaScript
 [Immutable array using Proxy](http://jsfiddle.net/gurw2coL/)
+[Binary file manipulation](https://github.com/cleroux/mp4meta) - Add metadata to MP4 files
 
 ## JavaScript - [Flot Charts](http://www.flotcharts.org/)
 [Multi-series real-time chart](https://jsfiddle.net/vkvmpL6o/2)  
