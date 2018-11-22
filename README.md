@@ -8,7 +8,7 @@
 [Desktop Google Calendar](https://github.com/cleroux/DesktopGoogleCalendar)
 
 ## JavaScript
-[Immutable array using Proxy](http://jsfiddle.net/gurw2coL/)
+[Immutable array using Proxy](http://jsfiddle.net/gurw2coL/)  
 [Binary file manipulation](https://github.com/cleroux/mp4meta) - Add metadata to MP4 files
 
 ## JavaScript - [Flot Charts](http://www.flotcharts.org/)
